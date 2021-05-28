@@ -13,7 +13,7 @@ class Timer extends React.Component {
       {
         data: "",
         format: "dwm",
-        style1: { width: "800px" },
+        style1: { maxWidth: "900px" },
         style2: "flex-start",
       },
     ],
